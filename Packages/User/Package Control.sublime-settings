@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Babel",
+		"BracketHighlighter",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Emmet Css Snippets",
+		"GitGutter",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"PHP Companion",
+		"Phpcs",
+		"Pretty JSON",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Syntax Highlighting for Sass",
+		"Vuejs Complete Package",
+		"ZSH"
+	]
+}
